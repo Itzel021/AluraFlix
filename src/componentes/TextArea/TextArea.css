@@ -1,0 +1,23 @@
+.campo-textArea {
+  width: 70%;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+  text-align: start;
+}
+
+.campo-textArea label {
+  display: block;
+  color: #ffffff;
+  padding-bottom: 10px;
+}
+
+.campo-textArea input {
+  width: 90%;
+  height: 50px;
+  padding: 10px;
+  background: #191919;
+  border: 3px solid #262626;
+  border-radius: 10px;
+  color: #a5a5a5;
+  margin-top: 10px;
+}

@@ -1,0 +1,30 @@
+.row-form {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.campo-texto {
+  width: 35%;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+.campo-texto label {
+  display: block;
+  text-align: start;
+  color: #ffffff;
+  padding-bottom: 10px;
+}
+
+.campo-texto input {
+  width: 90%;
+  padding: 10px;
+  background: #191919;
+  border: 3px solid #262626;
+  border-radius: 10px;
+  color: #a5a5a5;
+  margin-top: 10px;
+  margin-right: 10px;
+}

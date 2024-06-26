@@ -1,0 +1,23 @@
+.lista-opciones{
+    width: 35%;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    text-align: start;
+}
+
+.lista-opciones label {
+  display: block;
+  text-align: start;
+  color: #ffffff;
+  padding-bottom: 10px;
+  }
+  
+.lista-opciones select {
+  width: 100%;
+  padding: 10px;
+  background: #191919;
+  border: 3px solid #262626;
+  border-radius: 10px;
+  color: #a5a5a5;
+  margin-top: 10px;
+  }

@@ -1,0 +1,12 @@
+.container-form {
+  box-sizing: border-box;
+  width: 100%;
+  background-color: rgba(25, 25, 25, 1);
+  text-align: center;
+  padding: 50px;
+}
+.row-form-button{
+  width: 60%;
+  margin-top: 10px;
+}
+
